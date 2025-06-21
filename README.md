@@ -35,11 +35,11 @@ Expandir a solução com automação e integração com outras plataformas. Part
 
 ## 📂 Conteúdo do Projeto
 
-- Planilha com dados trimestrais e perfis de aprendizagem  
-- Gráfico de desempenho por perfil de aluno  
-- Documento explicativo em PDF  
-- Resumo Executivo (este README)  
-- Link para os arquivos completos no Google Drive
+- 📄 Planilha com dados trimestrais e perfis de aprendizagem  
+- 📊 Gráfico de desempenho por perfil de aluno  
+- 📑 Documento explicativo em PDF  
+- 📝 Resumo Executivo (este README)  
+- 🔗 Link para os arquivos completos no Google Drive
 
 ---
 

@@ -10,7 +10,7 @@ Criar uma ferramenta simples e funcional que ajude professores a monitorar o pro
 
 ---
 
-## 📊 Resumo Executivo
+## 📋 Resumo Executivo – Proposta de Solução
 
 **Proponente:**  
 David Almeida Lima – Professor de Matemática, especialista em educação inclusiva e atualmente em transição para a área de dados e tecnologias aplicadas à educação.
@@ -46,4 +46,3 @@ Expandir a solução com automação e integração com outras plataformas. Part
 ## 🔗 Acesse o Projeto Completo
 
 📁 [Pasta do projeto no Google Drive](https://drive.google.com/drive/folders/1qDbA7IIl7X4TqB6Ih7vjJip90UYpFuac?usp=drive_link)
-
